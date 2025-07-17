@@ -8,6 +8,6 @@
 > **other interests:** ui/ux design, cooking
 
 ### Links
-[BlueSky](https://bsky.app/profile/tiredmary.bsky.social) / [Website](http://mary-schneider.de/)
+[BlueSky](https://bsky.app/profile/tiredmary.bsky.social) / [Website](http://mary-schneider.de/) / [Steam](https://steamcommunity.com/id/tiredmary/)
 
 ---
