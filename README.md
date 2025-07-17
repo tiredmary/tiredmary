@@ -1,16 +1,13 @@
-## Hi there 👋
+## ✨ tiredmary 
+📍 germany <br>
+⏳ 19 yrs <br>
+🏳️‍⚧️ she/her
 
-<!--
-**tiredmary/tiredmary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> **job:** Trainee Software Developer <br>
+> **languages:** Java, JavaScript (learning), C# <br>
+> **other interests:** ui/ux design, cooking
 
-Here are some ideas to get you started:
+### Links
+[BlueSky](https://bsky.app/profile/tiredmary.bsky.social) / [Website](http://mary-schneider.de/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
