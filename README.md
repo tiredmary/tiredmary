@@ -4,7 +4,7 @@
 🏳️‍⚧️ she/her
 
 > **job:** Trainee Software Developer <br>
-> **languages:** Java, JavaScript (learning), C# <br>
+> **languages:** Java, C++ (learning), C# <br>
 > **other interests:** ui/ux design, cooking
 
 ### Links
