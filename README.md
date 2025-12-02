@@ -1,6 +1,6 @@
 ## ✨ tiredmary 
 📍 germany <br>
-⏳ 19 yrs <br>
+⏳ 20 yrs <br>
 🏳️‍⚧️ she/her
 
 > **job:** Trainee Software Developer <br>
