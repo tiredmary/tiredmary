@@ -3,11 +3,11 @@
 ⏳ 20 yrs <br>
 🏳️‍⚧️ she/her
 
-> **job:** Trainee Software Developer <br>
-> **languages:** Java, JS, C++, C# <br>
+> **job:** Software Developer <br>
+> **languages:** Java, Kotlin, GDScript <br>
 > **other interests:** ui/ux design, cooking
 
 ### Links
-[BlueSky](https://bsky.app/profile/tiredmary.bsky.social) / [Website](http://mary-schneider.de/) / [Steam](https://steamcommunity.com/id/tiredmary/)
+[BlueSky](https://bsky.app/profile/marydev.de) / [Website](http://marydev.de/) / [Steam](https://steamcommunity.com/id/tiredmary/)
 
 ---
